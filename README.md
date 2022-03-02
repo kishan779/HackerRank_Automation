@@ -11,7 +11,7 @@ Hacker Rank Automation
 
 -Run Hackerank_Automation Project 
 
--code : npm index.js
+-code : node index.js
 
 
 
