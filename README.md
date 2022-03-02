@@ -5,11 +5,11 @@ Hacker Rank Automation
 
 -Code :  npm --version
 
--install puppeteer 
+-To install puppeteer 
 
 -code : npm i puppeteer
 
--Run Hackerank_Automation Project 
+-To Run Hackerank_Automation Project 
 
 -code : node index.js
 
