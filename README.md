@@ -1,11 +1,15 @@
 # HackerRank_Automation
 Hacker Rank Automation
 
-To check node js is install in your computer or not 
+-To check node js is install in your computer or not 
 Code :  npm --version
 
-install puppeteer 
+-install puppeteer 
 code : npm i puppeteer
+
+-Run Hackerank_Automation Project 
+code : npm index.js
+
 
 
 
